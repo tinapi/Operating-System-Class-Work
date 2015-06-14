@@ -1,5 +1,0 @@
-In this project, I built a Unix-like file system on the ThreadOS. Through the use of the file system, user programs will now be able to access persistent data on disk by way of stream-oriented files 
-rather than the more painful direct access to disk blocks with rawread() and rawrite().
-
-The file system should provide user threads with the system calls that will allow them to format, to open, to read from , to write to, to update the seek pointer of, to close, to delete, and to get 
-the size of their files.
