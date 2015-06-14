@@ -1,5 +1,5 @@
-# Operating-System-Class-Work
-About all Operating System ThreadOS assignments
+# Operating-System-Class-Work 
+About all Operating System ThreadOS assignments (Java)
 
 P1-System Call and Shell
 
